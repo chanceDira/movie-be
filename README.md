@@ -1,7 +1,7 @@
 # Movie App
 
 ## Introduction
-Movie App Backtend.
+Movie App Backend.
 
 
 ## How to run
