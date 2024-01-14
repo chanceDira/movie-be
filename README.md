@@ -1,7 +1,7 @@
 # Movie App
 
 ## Introduction
-Movie App Frontend.
+Movie App Backtend.
 
 
 ## How to run
